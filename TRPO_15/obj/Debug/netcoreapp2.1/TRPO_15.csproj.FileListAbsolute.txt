@@ -1,0 +1,11 @@
+E:\source\repos\TRPO_15\TRPO_15\bin\Debug\netcoreapp2.1\TRPO_15.deps.json
+E:\source\repos\TRPO_15\TRPO_15\bin\Debug\netcoreapp2.1\TRPO_15.runtimeconfig.json
+E:\source\repos\TRPO_15\TRPO_15\bin\Debug\netcoreapp2.1\TRPO_15.runtimeconfig.dev.json
+E:\source\repos\TRPO_15\TRPO_15\bin\Debug\netcoreapp2.1\TRPO_15.dll
+E:\source\repos\TRPO_15\TRPO_15\bin\Debug\netcoreapp2.1\TRPO_15.pdb
+E:\source\repos\TRPO_15\TRPO_15\obj\Debug\netcoreapp2.1\TRPO_15.csprojAssemblyReference.cache
+E:\source\repos\TRPO_15\TRPO_15\obj\Debug\netcoreapp2.1\TRPO_15.csproj.CoreCompileInputs.cache
+E:\source\repos\TRPO_15\TRPO_15\obj\Debug\netcoreapp2.1\TRPO_15.AssemblyInfoInputs.cache
+E:\source\repos\TRPO_15\TRPO_15\obj\Debug\netcoreapp2.1\TRPO_15.AssemblyInfo.cs
+E:\source\repos\TRPO_15\TRPO_15\obj\Debug\netcoreapp2.1\TRPO_15.dll
+E:\source\repos\TRPO_15\TRPO_15\obj\Debug\netcoreapp2.1\TRPO_15.pdb
